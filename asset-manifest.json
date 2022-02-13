@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Siniavskay-Nadejda/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
-    "main.js": "/Siniavskay-Nadejda/goit-react-hw-01-components.git/static/js/main.f46f753f.js",
-    "static/js/787.84e13687.chunk.js": "/Siniavskay-Nadejda/goit-react-hw-01-components.git/static/js/787.84e13687.chunk.js",
-    "index.html": "/Siniavskay-Nadejda/goit-react-hw-01-components.git/index.html",
-    "main.7acaea2f.css.map": "/Siniavskay-Nadejda/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
-    "main.f46f753f.js.map": "/Siniavskay-Nadejda/goit-react-hw-01-components.git/static/js/main.f46f753f.js.map",
-    "787.84e13687.chunk.js.map": "/Siniavskay-Nadejda/goit-react-hw-01-components.git/static/js/787.84e13687.chunk.js.map"
+    "main.css": "/Siniavskay-Nadejda/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/Siniavskay-Nadejda/goit-react-hw-01-components/static/js/main.6d5a8b9d.js",
+    "static/js/787.84e13687.chunk.js": "/Siniavskay-Nadejda/goit-react-hw-01-components/static/js/787.84e13687.chunk.js",
+    "index.html": "/Siniavskay-Nadejda/goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/Siniavskay-Nadejda/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.6d5a8b9d.js.map": "/Siniavskay-Nadejda/goit-react-hw-01-components/static/js/main.6d5a8b9d.js.map",
+    "787.84e13687.chunk.js.map": "/Siniavskay-Nadejda/goit-react-hw-01-components/static/js/787.84e13687.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.f46f753f.js"
+    "static/js/main.6d5a8b9d.js"
   ]
 }
