@@ -30,11 +30,11 @@ export default function Profile({ username, avatar, tag, location, stats }) {
   </div>)
 }
 Profile.propTypes = {
-    username: PropTypes.string,  
+    username: PropTypes.string.isRequired,  
     avatar: PropTypes.string,
-    tag: PropTypes.string,
-    location: PropTypes.string,
-    stats:PropTypes.object,
+    tag: PropTypes.string.isRequired,
+    location: PropTypes.string.isRequired,
+    stats:PropTypes.objectOf(PropTypes.number).isRequired
     
     
 }
